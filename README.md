@@ -2,6 +2,8 @@
 
 A two-drive tracked robot I built using an Arduino-compatible platform. No welding involved, just solid, beginner-friendly hardware powered by two 18650 batteries, with infrared remote control and an 8x16 LED display for visual feedback.
 
+![Showcase](tank-robot-showcase4.jpg)
+
 ## Features
 
 - **Infrared remote control:** drive the tank forward, backward, left, and right using an IR remote
